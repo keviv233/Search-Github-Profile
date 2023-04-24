@@ -61,6 +61,10 @@ body {
     color: rgb(0, 0, 0);
 }
 
+.search:hover {
+    cursor: default;
+}
+
 .search::placeholder {
     color: rgb(64, 45, 77);
 }
@@ -113,13 +117,18 @@ body {
     margin-top: 10px;
 }
 
+.resent-repos a {
+    display: inline;
+    text-decoration: none;
+    color: rgb(255, 221, 252);
+    font-size: 90%;
+    font-weight: 400;
+}
+
 .repo {
     padding: 5px 10px;
     border-radius: 5px;
     background-color: rgb(71, 44, 86);
-    font-size: 90%;
-    color: rgb(255, 221, 252);
-    font-weight: 400;
 }
 
 @media all and (max-width: 480px) {
@@ -149,4 +158,13 @@ body {
     .profile {
         padding: 15px;
     }
+}
+
+.error {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 120%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
