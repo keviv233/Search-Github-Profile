@@ -45,7 +45,7 @@ The Search GitHub Profile project utilizes the GitHub API to fetch user informat
 
 <br>
 
-## Contributing
+## 👥🤝 Contributing
 
 Contributions to the Search GitHub Profile project are welcome! If you would like to contribute, please follow these guidelines:
 
