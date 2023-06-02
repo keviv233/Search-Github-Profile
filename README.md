@@ -2,6 +2,8 @@
 
 **The Search GitHub Profile project is a web application that allows users to search for GitHub profiles. It utilizes the GitHub API to fetch and display information about a user, including their profile picture, username, number of followers, number of followings, and repositories.**
 
+> [Run The Project](https://vivek-chhabra.github.io/Search-Github-Profile/)
+
 <br>
 
 ## ✨ Features
